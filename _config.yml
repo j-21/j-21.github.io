@@ -16,8 +16,7 @@ timezone: Asia/Seoul
 
 title: Jaehyuk Yang # the main title
 
-# tagline: 왜들 그리 다운돼있어? # it will display as the subtitle
-tagline: test # it will display as the subtitle
+tagline: 왜들 그리 다운돼있어? # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
